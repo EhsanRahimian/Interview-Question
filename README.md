@@ -21,6 +21,7 @@ We don't care about times before or after that time
           B |------|,,,,,,,,,,,,,|------|,,,,,,,,,,,,,|------|,,,,,,|------|,,,,,,|    
 
 Gide: (Free shows by  ,,, and  Busy shows by ---)
+The "Class Time{...}" has given in progect.
 
 
 
