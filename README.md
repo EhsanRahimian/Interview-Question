@@ -20,7 +20,7 @@ We don't care about times before or after that time
           A |------|------|,,,,,,|------|,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|                                          
           B |------|,,,,,,,,,,,,,|------|,,,,,,,,,,,,,|------|,,,,,,|------|,,,,,,|    
 
-Gide: Free shows by  ,,, && Busy shows by ---
+Gide: (Free shows by  ,,, and  Busy shows by ---)
 
 
 
