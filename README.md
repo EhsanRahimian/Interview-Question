@@ -1,5 +1,6 @@
 # Interview-Question
 
+
 Suppose you want to bring the whole company together for 
 a gigantic meeting of the minds.
 
@@ -16,13 +17,13 @@ You should specify a beginHour and endHour time.
 We don't care about times before or after that time
 
      9     10     11     12     13     14     15     16     17     18     19
-A    |      |------|------|      |      |      |------|      |      |      |
+A           |------|------|                    |------| 
 
 
-B    |      |------|      |      |------|      |      |------|      |      |
+B           |------|             |------|             |------|
 
 
-Busy |      |------|------|      |------|      |------|------|      |      |
+Busy        |------|------|      |------|      |------|------|   
 
 
-Free |------|      |      |------|      |------|      |      |------|------|
+Free |------|             |------|      |------|             |------|------|
